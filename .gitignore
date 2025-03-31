@@ -3,3 +3,7 @@
 *.labeled
 
 *.pcap
+
+*.png
+*.jpg
+*.jpeg
