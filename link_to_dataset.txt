@@ -1,2 +1,2 @@
-link to kaggle data set
-https://www.kaggle.com/datasets/advaitnmenon/network-traffic-data-malicious-activity-detection
+link to data set
+https://www.stratosphereips.org/datasets-iot23
